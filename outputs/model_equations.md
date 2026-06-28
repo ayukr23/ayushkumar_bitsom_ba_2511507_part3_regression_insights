@@ -111,7 +111,7 @@ Monthly Sales = 27,220
 **Selected Model: Full Multiple Regression (13 predictors)**
 
 **Reason for selection:**
-- R² of 0.838 vs best simple model R² of 0.736 — meaningfully better explanatory power
+- R² of 0.818 vs best simple model R² of 0.736 — meaningfully better explanatory power
 - Captures both quantitative drivers (footfall, staff) and structural factors (store type, region)
 - Includes dummy variables required by the assignment
 - Adjusted R² (0.831) remains high, confirming the additional variables are genuinely useful, not overfitting
